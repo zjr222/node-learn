@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjr222/node-learn.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "zjr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjr222/node-learn/issues"
+  },
+  "homepage": "https://github.com/zjr222/node-learn#readme",
+  "devDependencies": {
+    "@types/node": "^16.4.3"
+  }
+}
